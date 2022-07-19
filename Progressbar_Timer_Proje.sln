@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Progressbar_Timer_Proje", "Progressbar_Timer_Proje\Progressbar_Timer_Proje.csproj", "{FE377E07-0A96-4EE3-A8E3-284C291C894D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE377E07-0A96-4EE3-A8E3-284C291C894D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE377E07-0A96-4EE3-A8E3-284C291C894D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE377E07-0A96-4EE3-A8E3-284C291C894D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE377E07-0A96-4EE3-A8E3-284C291C894D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287C0151-3BD0-4DF5-8CA4-D3448902CB9F}
+	EndGlobalSection
+EndGlobal
